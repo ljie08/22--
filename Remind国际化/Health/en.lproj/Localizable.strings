@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  Health
+
+  Created by 魔曦 on 2017/8/21.
+  Copyright © 2017年 PerfectBao. All rights reserved.
+*/
+
+"定时提醒" = "Remind";
+"吃药" = "Drug";
+"测血糖" = "Blood Sugar";
+"测脉搏" = "Pulse";
+"复查" = "Review";
+"理疗" = "Cure";
+"喝水" = "Drink water";
+"运动" = "Sports";
+"睡眠" = "Sleeping";
+
+"今天" = "Today";
+"明天" = "Tomorrow";
+"还有" = "";
+"小时" = "h";
+"分钟" = "m";
+
+
+
+"确认" = "Sure";
+"确定" = "Sure";
+"保存" = "Save";
+"取消" = "Cancel";
+
+
+"闹钟开关" = "Switch";
+"标题" = "Title";
+"震动" = "Vibration";
+"周期" = "Repeat";
+"剂量" = "Dose";
+"容量" = "Capacity";
+"第一次" = "First";
+"第二次" = "Second";
+"第三次" = "Third";
+"第四次" = "Fourth";
+"第五次" = "Fifth";
+"第六次" = "Sixth";
+"增加一次" = "Increase one time";
+
+"闹钟定时" = "Time";
+"上午" = "AM";
+"下午" = "PM";
+"片" = "pill";
+"袋" = "bag";
+"毫升" = "ml";
+"克" = "g";
+"  输入剂量" = "input Dose";
+"请设置时间" = "Please setting time";
+"设置成功" = "Success";
+"删除成功" = "Delete Success";
+"您可以根据医生建议制定适合自己的监测方案" = "Make a plan according to the doctor's advice";
+
+"星\n期" = "Day";
+"凌\n晨" = "Zero";
+"早餐" = "Breakfast";
+"午餐" = "Lunch";
+"晚餐" = "Dinner";
+"前" = "Ago";
+"后" = "Later";
+"睡\n前" = "sleep";
+"测量\n时间" = "Time";
+"不能小于当前时间" = "Can't be less than the current time";
+"不能小于当前日期" = "Can't be less than the current day";
+"至多设置6个闹钟" = "Set up to 6 alarm clocks";
+"一" = "Mon";
+"二" = "Thes";
+"三" = "Wed";
+"四" = "Thur";
+"五" = "Fri";
+"六" = "Sat";
+"日" = "Sun";
+"工作日" = "WeekDay";
+"每天" = "EveryDay";
+"年" = "-";
+"月" = "";
+"删除此次闹钟？" = "delete?";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+
+
+
